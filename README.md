@@ -12,7 +12,7 @@ This repository has been created to show off my various Data Analytics projects.
 - [Contact](https://github.com/schnebelie-i/Data-Analysis-Portfolio/blob/main/README.md#contact)
 ## Portfolio Projects
 ### Predicting Concrete Compressive Strength using Dataset Features
-**Code:** `[Concrete Compressive Strength Prediction](https://github.com/schnebelie-i/portfolio-projects/blob/main/Concrete%20Compressive%20Strength%20Prediction.ipynb)`
+**Code:** [`Concrete Compressive Strength Prediction`](https://github.com/schnebelie-i/portfolio-projects/blob/main/Concrete%20Compressive%20Strength%20Prediction.ipynb)
 
 **Description:** In this project I used a dataset of the ingredients of concrete to predict concrete strength. The project steps included loading the data, cleaning it, performing an exploratory analysis, building two separate models for prediction (_Lasso regression, Neural network_), evaluating both models' performance, and interpreting the models to provide valuable insights. The dataset's eight features include cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, fine aggregate, and age. 
 
@@ -21,7 +21,7 @@ This repository has been created to show off my various Data Analytics projects.
 **Tech:** Python (pandas, NumPy, scikit-learn)
 
 ### Retail Exploratory Analysis
-**Code:** `[Retail Exploratory Analysis](https://github.com/schnebelie-i/portfolio-projects/blob/main/Retail%20Exploratory%20Analysis.ipynb)`
+**Code:** [`Retail Exploratory Analysis`](https://github.com/schnebelie-i/portfolio-projects/blob/main/Retail%20Exploratory%20Analysis.ipynb)
 
 **Description:** This project involved using two datasets of purchases from a store to perform an exploratory analysis. The dataset includes the fields Invoice, StockCode, Description, Quantity, InvoiceDate, Price, Customer ID, and Country. I answered multiple questions, such as: _"What are the top ten products with the lowest return rates?"_
 
