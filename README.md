@@ -18,7 +18,7 @@ This repository has been created to show off my various Data Analytics projects.
 
 **Skills:** data cleaning, data analysis, data visualization, predictive analysis
 
-**Tech:** Python (pandas, NumPy, scikit-learn)
+**Tech:** Python (pandas, NumPy, scikit-learn, seaborn)
 
 ### Retail Exploratory Analysis
 **Code:** [`Retail Exploratory Analysis`](https://github.com/schnebelie-i/portfolio-projects/blob/main/Retail%20Exploratory%20Analysis.ipynb)
