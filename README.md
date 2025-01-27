@@ -5,10 +5,10 @@ Hi, I'm Isabel. Currently, I am nearly finished completing a specialized study i
 This repository has been created to show off my various Data Analytics projects. 
 
 ## Table of Contents
-- [About](https://github.com/schnebelie-i/Data-Analysis-Portfolio?tab=readme-ov-file#about)
-- [Portfolio Projects](https://github.com/schnebelie-i/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
-  - [**Predicting Concrete Compressive Strength using dataset features** - _Python (pandas, NumPy, scikit-learn)_](https://github.com/schnebelie-i/Data-Analysis-Portfolio?tab=readme-ov-file#predicting-concrete-compressive-strength-using-dataset-features)
-  - [**Retail Exploratory Analysis** - _Python (pandas, Matplotlib, NumPy)_](https://github.com/schnebelie-i/Data-Analysis-Portfolio?tab=readme-ov-file#retail-exploratory-analysis)
+- [About](https://github.com/schnebelie-i/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/schnebelie-i/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - [**Predicting Concrete Compressive Strength using dataset features** - _Python (pandas, NumPy, scikit-learn)_](https://github.com/schnebelie-i/Data-Analysis-Portfolio/blob/main/README.md#predicting-concrete-compressive-strength-using-dataset-features)
+  - [**Retail Exploratory Analysis** - _Python (pandas, Matplotlib, NumPy)_](https://github.com/schnebelie-i/Data-Analysis-Portfolio/blob/main/README.md#retail-exploratory-analysis)
 - [Contact](https://github.com/schnebelie-i/Data-Analysis-Portfolio/blob/main/README.md#contact)
 ## Portfolio Projects
 ### Predicting Concrete Compressive Strength using Dataset Features
