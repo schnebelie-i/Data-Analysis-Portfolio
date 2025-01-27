@@ -1,6 +1,6 @@
 # Isabel Schnebelie's Data Analysis Portfolio
 ## About
-Hi, I'm Isabel. Currently, I am nearly finished completing a specialized study in **Python for Data Science, Web and Core Programming** at UC Irvine. Throughout this study I have developed a passion for analyzing data and providing important insights. I have a background in UX Design, having completed a BSc in Communication and Multimedia Design in the Netherlands in 2023, along with a Digital Design internship at Crocs. In my free time I enjoy gaming, reading, drinking coffee, and hanging out with my friends.
+Hi, I'm Isabel. Currently, I am nearly finished completing a specialized study in **Python for Data Science, Web and Core Programming** at UC Irvine. Throughout this study I have developed a passion for analyzing data and providing important insights. I have a [background in UX Design](https://www.ischnebelie.studio/works), having completed a BSc in Communication and Multimedia Design in the Netherlands in 2023, along with a Digital Design internship at Crocs. In my free time I enjoy gaming, reading, drinking coffee, and hanging out with my friends.
 
 This repository has been created to show off my various Data Analytics projects. 
 
